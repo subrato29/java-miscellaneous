@@ -73,3 +73,5 @@ package-lock.json
 videos
 reports
 output.html
+
+*.iml
