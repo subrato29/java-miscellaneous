@@ -6,7 +6,7 @@ enum Color {
     BLUE
 }
 
-public class EnumOfSize {
+public class EnumOfColor {
     public static void main(String[] args) {
         System.out.println(Color.BLUE);
         System.out.println(Color.valueOf("WHITE"));
